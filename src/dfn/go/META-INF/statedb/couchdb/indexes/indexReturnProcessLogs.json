@@ -1,0 +1,14 @@
+{
+    "index": {
+        "fields": [
+            "docType",
+            "processId",
+            "operation",
+            "toOrg",
+            "toNodeId"
+        ]
+    },
+    "ddoc": "indexReturnProcessLogs",
+    "name": "indexReturnProcessLogs",
+    "type": "json"
+}

@@ -1,0 +1,11 @@
+{
+    "index": {
+        "fields": [
+            "docType",
+            "stateId"
+        ]
+    },
+    "ddoc": "indexEncryptedData",
+    "name": "indexEncryptedData",
+    "type": "json"
+}

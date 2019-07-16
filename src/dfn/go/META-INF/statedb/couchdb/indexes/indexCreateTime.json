@@ -1,0 +1,10 @@
+{
+    "index": {
+        "fields": [
+            "createTime"
+        ]
+    },
+    "ddoc": "indexCreateTime",
+    "name": "indexCreateTime",
+    "type": "json"
+}

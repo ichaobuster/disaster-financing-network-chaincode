@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fabric-ca-client": "^1.1.0",
+    "fabric-client": "^1.1.0",
+    "log4js": "^2.5.2",
+    "moment": "^2.20.1",
+    "node-uuid": "^1.4.8",
+    "pem": "^1.12.3"
+  }
+}

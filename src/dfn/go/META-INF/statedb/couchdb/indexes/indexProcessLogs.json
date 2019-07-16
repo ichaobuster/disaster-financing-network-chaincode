@@ -1,0 +1,11 @@
+{
+    "index": {
+        "fields": [
+            "docType",
+            "processId"
+        ]
+    },
+    "ddoc": "indexProcessLogs",
+    "name": "indexProcessLogs",
+    "type": "json"
+}
